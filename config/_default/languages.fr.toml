@@ -1,0 +1,15 @@
+disabled = false
+languageCode = 'be-FR'
+languageName = "Français"
+weight = 2
+title = "Pixel Patchwork"
+subtitle = 'minorités belges du jeu vidéo'
+
+[params]
+displayName = "FR"
+isoCode = "fr"
+rtl = false
+dateFormat = "2 January 2006"
+
+[permalinks]
+posts = "/:section/:slug/"

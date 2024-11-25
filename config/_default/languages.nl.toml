@@ -1,0 +1,15 @@
+disabled = false
+languageCode = "nl-BE"
+languageName = "Nederlands"
+weight = 3
+title = "Pixel Patchwork"
+subtitle = 'belgische gamedev minderheden'
+
+[params]
+displayName = "NL"
+isoCode = "nl"
+rtl = false
+dateFormat = "2 January 2006"
+
+[permalinks]
+posts = "/:section/:slug/"
