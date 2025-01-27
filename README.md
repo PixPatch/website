@@ -2,6 +2,13 @@
 
 If you need any support with adding content or playing around in HTML ask on discord!
 
+## Getting started
+
+```
+git submodule update --init --recursive
+hugo server -D
+```
+
 ## Useful links
 
 - HTML generator documentation https://gohugo.io/getting-started/quick-start/
