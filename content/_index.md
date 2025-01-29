@@ -9,5 +9,5 @@ title: "Welcome to PixPatch! :tada:"
 </div>
 
 <div class="flex px-4 py-2">
-  We are gamedevs from Marginalized and Oppressed Groups
+  We are gamedevs from Marginalized and Oppressed Groups.
 </div>
